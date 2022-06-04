@@ -1,0 +1,74 @@
+[ {
+   "question_text": "In which direction does the sunrise?",
+    "author": "edsys.in",
+    "complexity": 1,
+   "correct_answer": [
+      "East",
+      "east"
+   ],
+   "topic": "general"
+  },
+  {
+   "question_text": "How many zeros are there in one hundred thousand?",
+    "author": "edsys.in",
+    "complexity": 2,
+   "correct_answer": [
+      "Five",
+      "five",
+     "5",
+     5
+   ],
+   "topic": "general"
+  },
+  {
+   "question_text": "Which is the nearest star to planet earth?",
+    "author": "edsys.in",
+    "complexity": 1,
+   "correct_answer": [
+      "Sun",
+      "sun"
+        ],
+   "topic": "general"
+  },
+  {
+   "question_text": "Which is the longest river on the earth?",
+    "author": "edsys.in",
+    "complexity": 4,
+   "correct_answer": [
+      "Nile",
+      "nile"
+        ],
+   "topic": "general"
+  },
+  {
+   "question_text": "Which is the most sensitive organ in our body?",
+    "author": "edsys.in",
+    "complexity": 3,
+   "correct_answer": [
+      "Skin",
+      "skin"
+        ],
+   "topic": "general"
+  },
+  {
+   "question_text": "How many strings does a violin have?",
+    "author": "edsys.in",
+    "complexity": 5,
+   "correct_answer": [
+      "Four",
+      "four",
+     "4"
+   ],
+   "topic": "general"
+  },
+  {
+   "question_text": "Which is the continent with the most number of countries?",
+    "author": "edsys.in",
+    "complexity": 5,
+   "correct_answer": [
+      "Africa",
+      "africa"
+        ],
+   "topic": "general"
+  }
+]
